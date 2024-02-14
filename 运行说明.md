@@ -1,0 +1,2 @@
+将数据做成excel文档复制到date文件夹，matlab中打开并将路径改为对应路径。
+先运行getDate_covid_2019.m函数再运行SEIR模型得出结果
